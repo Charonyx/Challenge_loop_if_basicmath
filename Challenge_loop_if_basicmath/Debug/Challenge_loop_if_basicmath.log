@@ -1,4 +1,4 @@
 ﻿  challenge.cpp
-C:\Users\chura\source\repos\Challenge_loop_if_basicmath\Challenge_loop_if_basicmath\challenge.cpp(20,23): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
-C:\Users\chura\source\repos\Challenge_loop_if_basicmath\Challenge_loop_if_basicmath\challenge.cpp(30,23): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\chura\source\repos\Challenge_loop_if_basicmath\Challenge_loop_if_basicmath\challenge.cpp(13,23): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\chura\source\repos\Challenge_loop_if_basicmath\Challenge_loop_if_basicmath\challenge.cpp(23,23): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
   Challenge_loop_if_basicmath.vcxproj -> C:\Users\chura\source\repos\Challenge_loop_if_basicmath\Debug\Challenge_loop_if_basicmath.exe
